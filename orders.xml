@@ -1,0 +1,44 @@
+<collection datetime="2016-10-21">
+	<order orderid="100">
+		<customer>Mike, G</customer>
+		<address>199 Four Valley Dr.</address>
+		<orderitem>
+			<orderitemid>100-1</orderitemid>			
+			<sku>a123</sku>
+			<name>LED TV</name>
+			<quantity>1</quantity>
+			<orderitemid>100-2</orderitemid>	
+			<sku>a124</sku>
+			<name>blue-ray player</name>
+			<quantity>1</quantity>
+			<orderitemid>100-3</orderitemid>	
+			<sku>a125</sku>
+			<name>HDMI Cable</name>
+			<quantity>3</quantity>
+		</orderitem>
+	</order>
+	<order orderid="101">
+		<customer>Jane, K</customer>
+		<address>188 Four Valley Dr.</address>
+		<orderitem>
+			<orderitemid>101-1</orderitemid>	
+			<sku>a123</sku>
+			<name>LED TV</name>
+			<quantity>1</quantity>
+			<orderitemid>101-2</orderitemid>	
+			<sku>a124</sku>
+			<name>blue-ray player</name>
+			<quantity>1</quantity>
+		</orderitem>
+	</order>
+	<order orderid="102">
+		<customer>Tom, J</customer>
+		<address>177 Four Valley Dr.</address>
+		<orderitem>
+			<orderitemid>102-1</orderitemid>	
+			<sku>b123</sku>
+			<name>speaker</name>
+			<quantity>4</quantity>
+		</orderitem>
+	</order>
+</collection>
