@@ -1,0 +1,253 @@
+{
+	"_id" : ObjectId("581117e8e138232095d48e41"),
+	"delivery_address_list" : {
+		
+	},
+	"online_username" : "",
+	"update_timestamp" : "Wed Sep 28 20:11:21 EDT 2016",
+	"primary_zone_name" : "America/Toronto",
+	"customer_preference_list" : {
+		"customerPref" : [
+			{
+				"typeID" : 1,
+				"value" : "N",
+				"expiry" : "2016-01-01"
+			},
+			{
+				"typeID" : 2,
+				"value" : "Y"
+			},
+			{
+				"typeID" : 3,
+				"value" : "N"
+			}
+		]
+	},
+	"customer_notes" : null,
+	"email_list" : {
+		
+	},
+	"visionmaxid" : 2271881,
+	"customer_preffered_language_cd" : "EN",
+	"create_timestamp" : "Wed Sep 28 20:11:21 EDT 2016",
+	"organization_list" : {
+		
+	},
+	"primary_store_num" : 0,
+	"phone_list" : {
+		"pModel" : {
+			"phoneTypeID" : 1,
+			"phoneNumber" : "(519) 831-3565",
+			"smsCapableIND" : "N",
+			"rankID" : 2
+		}
+	},
+	"customer_name" : {
+		
+	}
+}
+{
+	"_id" : ObjectId("581117e8e138232095d48e42"),
+	"delivery_address_list" : {
+		
+	},
+	"online_username" : "",
+	"update_timestamp" : "Wed Sep 28 20:11:21 EDT 2016",
+	"primary_zone_name" : "America/Toronto",
+	"customer_preference_list" : {
+		"customerPref" : [
+			{
+				"typeID" : 1,
+				"value" : "N",
+				"expiry" : "2016-01-01"
+			},
+			{
+				"typeID" : 2,
+				"value" : "N"
+			},
+			{
+				"typeID" : 3,
+				"value" : "N"
+			}
+		]
+	},
+	"customer_notes" : null,
+	"email_list" : {
+		"emailModel" : {
+			"email" : "tking@sleeman.ca",
+			"onlineIND" : "N",
+			"rankID" : 1
+		}
+	},
+	"visionmaxid" : 2271882,
+	"customer_preffered_language_cd" : "EN",
+	"create_timestamp" : "Wed Sep 28 20:11:21 EDT 2016",
+	"organization_list" : {
+		
+	},
+	"primary_store_num" : 0,
+	"phone_list" : {
+		"pModel" : {
+			"phoneTypeID" : 1,
+			"phoneNumber" : "(519) 831-3574",
+			"smsCapableIND" : "N",
+			"rankID" : 2
+		}
+	},
+	"customer_name" : {
+		
+	}
+}
+{
+	"_id" : ObjectId("581117e8e138232095d48e43"),
+	"delivery_address_list" : {
+		
+	},
+	"online_username" : "tuitty_fruitty_las@hotmail.com",
+	"update_timestamp" : "Wed Sep 28 20:11:21 EDT 2016",
+	"primary_zone_name" : "America/Toronto",
+	"customer_preference_list" : {
+		"customerPref" : [
+			{
+				"typeID" : 1,
+				"value" : "N",
+				"expiry" : "2016-01-01"
+			},
+			{
+				"typeID" : 2,
+				"value" : "N"
+			},
+			{
+				"typeID" : 3,
+				"value" : "N"
+			}
+		]
+	},
+	"customer_notes" : null,
+	"email_list" : {
+		"emailModel" : {
+			"email" : "tuitty_fruitty_las@hotmail.com",
+			"onlineIND" : "Y",
+			"rankID" : 1
+		}
+	},
+	"visionmaxid" : 2271883,
+	"customer_preffered_language_cd" : "EN",
+	"create_timestamp" : "Wed Sep 28 20:11:21 EDT 2016",
+	"organization_list" : {
+		
+	},
+	"primary_store_num" : 0,
+	"phone_list" : {
+		"pModel" : {
+			"phoneTypeID" : 1,
+			"phoneNumber" : "(519) 831-3583",
+			"smsCapableIND" : "N",
+			"rankID" : 2
+		}
+	},
+	"customer_name" : {
+		
+	}
+}
+{
+	"_id" : ObjectId("581117e8e138232095d48e44"),
+	"delivery_address_list" : {
+		
+	},
+	"online_username" : "",
+	"update_timestamp" : "Wed Sep 28 20:11:21 EDT 2016",
+	"primary_zone_name" : "America/Toronto",
+	"customer_preference_list" : {
+		"customerPref" : [
+			{
+				"typeID" : 1,
+				"value" : "N",
+				"expiry" : "2016-01-01"
+			},
+			{
+				"typeID" : 2,
+				"value" : "Y"
+			},
+			{
+				"typeID" : 3,
+				"value" : "N"
+			}
+		]
+	},
+	"customer_notes" : null,
+	"email_list" : {
+		
+	},
+	"visionmaxid" : 2271884,
+	"customer_preffered_language_cd" : "EN",
+	"create_timestamp" : "Wed Sep 28 20:11:21 EDT 2016",
+	"organization_list" : {
+		
+	},
+	"primary_store_num" : 0,
+	"phone_list" : {
+		"pModel" : {
+			"phoneTypeID" : 1,
+			"phoneNumber" : "(519) 831-3640",
+			"smsCapableIND" : "N",
+			"rankID" : 2
+		}
+	},
+	"customer_name" : {
+		
+	}
+}
+{
+	"_id" : ObjectId("581117e8e138232095d48e45"),
+	"delivery_address_list" : {
+		
+	},
+	"online_username" : "michael.nealon@hotmail.com",
+	"update_timestamp" : "Wed Sep 28 20:11:21 EDT 2016",
+	"primary_zone_name" : "America/Toronto",
+	"customer_preference_list" : {
+		"customerPref" : [
+			{
+				"typeID" : 1,
+				"value" : "N",
+				"expiry" : "2016-01-01"
+			},
+			{
+				"typeID" : 2,
+				"value" : "Y"
+			},
+			{
+				"typeID" : 3,
+				"value" : "N"
+			}
+		]
+	},
+	"customer_notes" : null,
+	"email_list" : {
+		"emailModel" : {
+			"email" : "michael.nealon@hotmail.com",
+			"onlineIND" : "Y",
+			"rankID" : 1
+		}
+	},
+	"visionmaxid" : 2271885,
+	"customer_preffered_language_cd" : "EN",
+	"create_timestamp" : "Wed Sep 28 20:11:21 EDT 2016",
+	"organization_list" : {
+		
+	},
+	"primary_store_num" : 0,
+	"phone_list" : {
+		"pModel" : {
+			"phoneTypeID" : 1,
+			"phoneNumber" : "(519) 831-3675",
+			"smsCapableIND" : "N",
+			"rankID" : 2
+		}
+	},
+	"customer_name" : {
+		
+	}
+}
+
